@@ -1,10 +1,10 @@
 #include <stdio.h>
-#include <function-1-1.cpp>
+#include <iostream>
 
 int main()
 {
-    t *= 3;
-    void int size_of_variable_star_t(t *);
-    size_of_variable_star_t(t *);
+    int size_of_variable_star_t(int t);
+    std::cout
+        << size_of_variable_star_t(tm);
     return 0;
 }

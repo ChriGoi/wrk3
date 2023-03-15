@@ -1,7 +1,9 @@
 #include <stdio.h>
-void size_of_variable_star_t(t *)
+using namespace std;
+int size_of_variable_star_t()
 {
-    p = &t;
-    return;
-    printf("%d", p)
+    int a, *p;
+    p = &a;
+    int *t = new int;
+    return sizeof(t);
 }
